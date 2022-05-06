@@ -1,0 +1,106 @@
+@import url("https://fonts.googleapis.com/css2?family=Happy+Monkey&family=Merriweather+Sans&display=swap");
+
+body {
+  height: 100vh;
+  background-color: rgb(39, 39, 39);
+  color: aliceblue;
+  font-family: "Happy Monkey", cursive;
+}
+
+/********************* HEADER *********************/
+
+header {
+  height: 45%;
+}
+
+.heading {
+  text-align: center;
+  font-size: 4em;
+}
+
+.mark {
+  background-color: aliceblue;
+  color: black;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 800;
+  width: 10rem;
+  height: 20%;
+  margin-left: 42%;
+  border-radius: 28px;
+  /* border: 2px solid black; */
+}
+
+/********************* HEADER *********************/
+
+/********************* BODY *********************/
+
+.check-bar {
+  text-align: right;
+}
+
+.guess {
+  width: 6em;
+  height: 3rem;
+  margin-right: 3%;
+  font-size: 2.2rem;
+  font-weight: 700;
+  text-align: center;
+  font-family: "Happy Monkey", cursive;
+}
+
+.input-box {
+  margin-right: 41%;
+}
+
+.check {
+  font-weight: 700;
+  font-size: 17px;
+  margin-right: 47%;
+  width: 6rem;
+  height: 2rem;
+}
+
+.check:hover {
+  cursor: pointer;
+  color: rgb(64, 2, 64);
+}
+
+.message-bar {
+  margin-left: 75%;
+  font-size: 1.8rem;
+  font-weight: 500;
+  margin-top: -18%;
+}
+
+.inst-box {
+  margin-top: -2%;
+}
+
+h2 {
+  margin-left: 2%;
+}
+
+li {
+  padding: 6px 0px;
+}
+
+.reset-btn {
+  margin-top: -11%;
+}
+
+.again {
+  font-weight: 700;
+  font-size: 17px;
+  margin-left: 79%;
+  width: 6rem;
+  height: 2.5rem;
+  margin-top: 1%;
+}
+
+.again:hover {
+  cursor: pointer;
+  color: rgb(64, 2, 64);
+}
+
+/********************* BODY *********************/
